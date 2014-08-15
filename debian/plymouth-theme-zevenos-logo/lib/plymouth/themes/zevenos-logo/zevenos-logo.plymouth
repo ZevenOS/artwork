@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ZevenOS Logo
+Description=A theme that features a background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/zevenos-logo
+ScriptFile=/lib/plymouth/themes/zevenos-logo/zevenos-logo.script

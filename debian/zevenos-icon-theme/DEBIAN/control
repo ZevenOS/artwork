@@ -1,0 +1,10 @@
+Package: zevenos-icon-theme
+Source: xubuntu-artwork
+Version: 12.10.2zevenos5
+Architecture: all
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Installed-Size: 28863
+Section: x11
+Priority: optional
+Description: ZevenOS icon theme
+ This package contains the default icon theme for ZevenOS.

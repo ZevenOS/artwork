@@ -1,0 +1,17 @@
+Package: plymouth-theme-zevenos-text
+Source: xubuntu-artwork
+Version: 12.10.2zevenos5
+Architecture: all
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Installed-Size: 55
+Depends: plymouth, plymouth-theme-ubuntu-text
+Provides: plymouth-theme
+Section: x11
+Priority: optional
+Description: graphical boot animation and logger - zevenos-text theme
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the default xubuntu-text theme used when no support for
+ a graphical theme is found on your system.

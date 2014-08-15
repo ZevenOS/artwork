@@ -1,0 +1,10 @@
+Package: zevenos-wallpapers
+Source: xubuntu-artwork
+Version: 12.10.2zevenos5
+Architecture: all
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Installed-Size: 2458
+Section: x11
+Priority: optional
+Description: ZevenOS wallpapers
+ This package contains the default wallpapers for ZevenOS.

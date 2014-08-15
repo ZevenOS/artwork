@@ -1,0 +1,12 @@
+Package: zevenos-artwork
+Source: xubuntu-artwork
+Version: 12.10.2zevenos5
+Architecture: all
+Maintainer: Xubuntu Developers <xubuntu-devel@lists.ubuntu.com>
+Installed-Size: 712
+Depends: shimmer-themes, libnewt0.52 (>= 0.52.11-2ubuntu7)
+Recommends: plymouth-theme-xubuntu-logo, plymouth-theme-xubuntu-text, xubuntu-wallpapers, xubuntu-icon-theme
+Section: x11
+Priority: optional
+Description: ZevenOS themes and artwork
+ This package contains ZevenOS themes and artwork.
